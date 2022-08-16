@@ -2,12 +2,12 @@ baseurl: https://gogoafuzzz.github.io
 languageCode: zh-tw
 theme: hugo-theme-stack
 paginate: 5
-title: Baymax 技術部落格
+title: GoFu 技術部落格
 
 languages:
     zh-tw:
         languageName: 中文
-        title: Baymax 技術部落格
+        title: GoFu 技術部落格
         weight: 1
 
 # Change it to your Disqus shortname before using

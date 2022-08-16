@@ -2,7 +2,7 @@
 
 ## About
 
-This is Baymax's blog
+This is afu's blog
 
 ## Copyright
 

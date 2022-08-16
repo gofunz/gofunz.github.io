@@ -15,4 +15,4 @@ menu:
             icon: user
 ---
 
-Ｈi, I'm Baymax.
+Ｈi, I'm afu.
