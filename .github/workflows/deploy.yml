@@ -43,8 +43,11 @@ jobs:
                   extended: true
 
             - name: Build
-              run: hugo --minify --gc && \
-                    echo "" > public/.nojekyll
+              run: hugo --minify --gc
+            
+            - name: No jekyll
+              uses: actions/checkout@v2
+              run: echo "" > public/.nojekyll
 
             - name: Deploy 🚀
               uses: JamesIves/github-pages-deploy-action@4.1.4
