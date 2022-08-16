@@ -44,7 +44,7 @@ jobs:
 
             - name: Build
               run: hugo --minify --gc && \
-                    touch public/.nojekyll
+                    echo "" > public/.nojekyll
 
             - name: Deploy 🚀
               uses: JamesIves/github-pages-deploy-action@4.1.4
