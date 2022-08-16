@@ -45,9 +45,10 @@ jobs:
             - name: Build
               run: hugo --minify --gc
 
-            - name: No jekyll
             - uses: actions/checkout@v2
-            - run: echo "" > public/.nojekyll
+
+            - name: No Jekyll
+              run: echo "" > public/.nojekyll
 
             - name: Deploy 🚀
               uses: JamesIves/github-pages-deploy-action@4.1.4
