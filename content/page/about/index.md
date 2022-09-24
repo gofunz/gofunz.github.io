@@ -25,4 +25,4 @@ Hi, 我是張晉福 ( Frank )
 
 偶爾在工作中，使用到一些套件時發現問題也會提出 PULL Requests 修正或優化功能，讓整個開源社群能夠變得更好。
 
-[My Resume](/pdf/frank-cv.pdf)
+[👉 My Resume 👈](https://tinyurl.com/frank-cv-1837)
