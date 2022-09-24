@@ -25,9 +25,4 @@ Hi, 我是張晉福 ( Frank )
 
 偶爾在工作中，使用到一些套件時發現問題也會提出 PULL Requests 修正或優化功能，讓整個開源社群能夠變得更好。
 
-<a
-  href="../../../assets/pdf/frank-cv.pdf"
-  target="#">
-  <button
-    class="btn btn-dark">My Resume</button>
-</a>
+[My Resume](/pdf/frank-cv.pdf)
